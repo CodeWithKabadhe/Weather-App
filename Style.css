@@ -1,0 +1,26 @@
+.container {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #location-input {
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  #lookup-btn {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #weather-info {
+    margin-top: 20px;
+  }
+  
